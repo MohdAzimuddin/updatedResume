@@ -20,10 +20,10 @@ I am a **Frontend Developer** with a strong foundation in HTML, CSS, and JavaScr
 - UI/UX & Performance (SEO, Lighthouse Audits, Accessibility)
 - Version Control (Git, GitHub)
 - Responsive Web Design (Mobile-First)
-
+   
 ### Tools:
 - Visual Studio Code
-- Git, GitHub
+- Git, GitHub 
 - Chrome Developer Tools
 - Netlify, Replit
 - npm, Yarn
